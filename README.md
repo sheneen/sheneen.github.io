@@ -1,21 +1,24 @@
-# sheneen.github.io
 
-## Background & Portfolio
+# Background & Portfolio
 
-#### Technical Skills: Python, SQL
+## Senior Data Analyst
+
+#### Technical Skills: SQL, Python, Microsoft Excel (Advanced), Dataiku
 
 ## Education
-- M.S., Applied Statisticss	| The Pennsylvania State University, University Park, PA (_August 2023_)	 			        		
-- Bachelor's, Mathematics | Drexel University, Philadelphia, PA (_May 2003_)
+- M.S., Applied Statisticss	| The Pennsylvania State University, University Park, PA	 			        		
+- Bachelor's, Mathematics | Drexel University, Philadelphia, PA
 
 ## Work Experience
-**Business Data Analyst, Life Insurance Experience Studies @ Lincoln Financial Group (_February 2023 - Present_)**
+**Business Data Analyst, Life Insurance Experience Studies @ Lincoln Financial Group (_April 2023 - December 2025_)**
 
-**Data Analyst, Audit Analytics @ Lincoln Financial Group (_July 2018 - January 2023_)**
+**Data Analyst, Labor & Employment Practice Group @ Morgan, Lewis & Bockius LLP (_September 2018 - April 2023_)**
 
-**Defined Benefit Analyst Roles @ Fidelity Investments (_October 2005 - April 2018_)**
+**Data Analyst (Planner Analyst / Report Coordinator) @ Hanwha Philly Shipyard, Inc. (_January 2006 - September 2018_)**
 
+## Certifications & Professional Development
+- Python for Data Science Certificate | eCornell | 2026
+- Python Programming Certificate | eCornell | 2026
+- Honors Fellow, Data Science for All Empowerment | Correlation One | 2021 – 2022
 
-
-## ---Research---
-### Using Geographic Information to Explore Player-Specific Movement and its Effects on Play Success in the NFL
+## ---Projects---
