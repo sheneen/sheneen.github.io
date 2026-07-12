@@ -25,6 +25,7 @@
 **[View the Final Report](Predict%20Sales%20Final%20Report.pdf)**
 
 ### [Sales Prediction Analysis Using R]
+(https://github.com/sheneen/sheneen.github.io/blob/f6eec4509714f50be7224dc27ea2fcead8d36008/assets/Predict%20Sales%20Final%20Report.pdf)
 
 
 ## Overview
@@ -61,19 +62,3 @@ This project highlights my ability to apply statistical methods, communicate ana
 
 ---
 
-## Tools & Technologies
-
-- R
-- Microsoft Excel
-- Statistical Modeling
-- Regression Analysis
-
----
-
-## Repository Contents
-
-| File | Description |
-|------|-------------|
-| `Final_Report.pdf` | Complete project report describing the methodology, statistical analysis, results, and conclusions. |
-
----
