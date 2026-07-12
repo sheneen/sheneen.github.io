@@ -21,3 +21,55 @@
 - Honors Fellow, Data Science for All Empowerment | Correlation One | 2021–2022
 
 ## Projects
+# Sales Prediction Analysis
+
+## Overview
+
+This project was completed as part of my Master of Science in Applied Statistics program at The Pennsylvania State University.
+
+The objective of this project was to develop and evaluate statistical models for predicting sales using historical business data. The analysis demonstrates the application of statistical techniques to identify relationships between variables, assess model performance, and generate insights that support business decision-making.
+
+This project highlights my ability to apply statistical methods, communicate analytical findings, and translate data into actionable business insights.
+
+---
+
+## Project Objectives
+
+- Explore and understand the underlying data
+- Identify factors that influence sales
+- Develop predictive regression models
+- Evaluate model performance using statistical metrics
+- Interpret results and communicate business implications
+
+---
+
+## Skills Demonstrated
+
+- Statistical Analysis
+- Regression Modeling
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Feature Selection
+- Model Evaluation
+- Data Visualization
+- Business Interpretation of Results
+- Technical Report Writing
+
+---
+
+## Tools & Technologies
+
+- R
+- Microsoft Excel
+- Statistical Modeling
+- Regression Analysis
+
+---
+
+## Repository Contents
+
+| File | Description |
+|------|-------------|
+| `Final_Report.pdf` | Complete project report describing the methodology, statistical analysis, results, and conclusions. |
+
+---
