@@ -30,12 +30,9 @@ This project was completed as part of my Master of Science in Applied Statistics
 
 The objective of this project was to develop and evaluate statistical models for predicting sales using historical business data. The analysis demonstrates the application of statistical techniques to identify relationships between variables, assess model performance, and generate insights that support business decision-making.
 
-This project highlights my ability to apply statistical methods, communicate analytical findings, and translate data into actionable business insights.
-
 ---
 
-## Project Objectives
-
+Project Objectives:
 - Explore and understand the underlying data
 - Identify factors that influence sales
 - Develop predictive regression models
@@ -44,8 +41,7 @@ This project highlights my ability to apply statistical methods, communicate ana
 
 ---
 
-## Skills Demonstrated
-
+Skills Demonstrated:
 - Statistical Analysis
 - Regression Modeling
 - Exploratory Data Analysis (EDA)
