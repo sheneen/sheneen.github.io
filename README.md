@@ -21,7 +21,11 @@
 - Honors Fellow, Data Science for All Empowerment | Correlation One | 2021–2022
 
 ## Projects
-# Sales Prediction Analysis
+# Sales Prediction Analysis Using R
+**[View the Final Report](Predict%20Sales%20Final%20Report.pdf)**
+
+### [Sales Prediction Analysis Using R]
+
 
 ## Overview
 
