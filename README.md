@@ -22,10 +22,7 @@
 
 ## Projects
 ### Sales Prediction Analysis Using R
-**[View the Final Report](Predict%20Sales%20Final%20Report.pdf)**
-
-### [Sales Prediction Analysis Using R]
-[View the Report](https://github.com/sheneen/sheneen.github.io/blob/f6eec4509714f50be7224dc27ea2fcead8d36008/assets/Predict%20Sales%20Final%20Report.pdf)
+**[View the Report](https://github.com/sheneen/sheneen.github.io/blob/f6eec4509714f50be7224dc27ea2fcead8d36008/assets/Predict%20Sales%20Final%20Report.pdf)**
 
 
 Overview:
