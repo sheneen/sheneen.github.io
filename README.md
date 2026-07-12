@@ -21,15 +21,14 @@
 - Honors Fellow, Data Science for All Empowerment | Correlation One | 2021–2022
 
 ## Projects
-# Sales Prediction Analysis Using R
+### Sales Prediction Analysis Using R
 **[View the Final Report](Predict%20Sales%20Final%20Report.pdf)**
 
 ### [Sales Prediction Analysis Using R]
-(https://github.com/sheneen/sheneen.github.io/blob/f6eec4509714f50be7224dc27ea2fcead8d36008/assets/Predict%20Sales%20Final%20Report.pdf)
+[View the Report](https://github.com/sheneen/sheneen.github.io/blob/f6eec4509714f50be7224dc27ea2fcead8d36008/assets/Predict%20Sales%20Final%20Report.pdf)
 
 
-## Overview
-
+Overview:
 This project was completed as part of my Master of Science in Applied Statistics program at The Pennsylvania State University.
 
 The objective of this project was to develop and evaluate statistical models for predicting sales using historical business data. The analysis demonstrates the application of statistical techniques to identify relationships between variables, assess model performance, and generate insights that support business decision-making.
